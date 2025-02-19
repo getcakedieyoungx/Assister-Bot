@@ -580,7 +580,6 @@ function _0x27d4() {
     "??\x20Finished\x20processing\x20account\x20ending\x20in\x20...",
     "176enQnpn",
     "points",
-    "Bot\x20created\x20by:\x20https://t.me/airdropwithmeh",
     "name",
     "8642700jGsoZA",
     "writeFileSync",
